@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="DropDowLayout">
+        <attr name="header" format="reference"/>
+        <attr name="content" format="reference"/>
+        <attr name="onclick_handler" format="reference"/>
+        <attr name="header_text" format="string"/>
+        <attr name="expanded" format="boolean"/>
+        <attr name="anim_time" format="integer"/>
+    </declare-styleable>
+</resources>
